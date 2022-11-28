@@ -6,7 +6,7 @@ Sabe-se que uma API trás muita agilidade em muitos meios, como integração com
 se comporta uma API Rest e pude aprender da própria plataforma da Microsoft Learn.
 
 ![API](https://user-images.githubusercontent.com/102628363/204297505-7fc41641-a72c-4e27-889e-3c05647be627.png)
-* Verbo "GET" deve retor uma lista com todas as pizzas cadastradas.
+* Verbo "GET" deve retornar uma lista com todas as pizzas cadastradas.
 * Verbo "GET" passando um parâmetro "ID" deve retornar a pizza com ID correspondente.
 * Verbo "POST" caso sucesso, cria uma nova pizza.
 * Verbo "PUT" passando um parâmetro "ID" deve alterar a pizza com o ID correspondente.
