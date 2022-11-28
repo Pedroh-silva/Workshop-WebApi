@@ -10,7 +10,7 @@ se comporta uma API Rest e pude aprender da própria plataforma da Microsoft Lea
 * Verbo "GET" passando um parâmetro "ID" deve retornar a pizza com ID correspondente.
 * Verbo "POST" caso sucesso, cria uma nova pizza.
 * Verbo "PUT" passando um parâmetro "ID" deve alterar a pizza com o ID correspondente.
-* Verbo "DELETE" passando um parâmetro "ID" deve exclui a pizza com o ID correspondente.
+* Verbo "DELETE" passando um parâmetro "ID" deve excluir a pizza com o ID correspondente.
 
 ## 💻 O que utilizei
 > HttpRepl ( sendo necessário o SDK do .NET Core 3.1). Utilizei para testar os endpoints.
